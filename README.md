@@ -6,4 +6,4 @@ A natural language processing (NLP)-based chatbot designed to assist users with 
 - **Symptom Analysis**: Interprets user-input symptoms and provides potential insights or suggestions.
 - **Health Information**: Answers basic medical questions using pre-trained NLP models or a knowledge base.
 - **Conversational AI**: Engages users in natural, context-aware dialogue.
-- **User Interface**: (Optional) Web-based interface for easy access via Streamlit.
+- **User Interface**: Web-based interface for easy access via Streamlit.
